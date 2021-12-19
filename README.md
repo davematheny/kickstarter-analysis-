@@ -27,7 +27,7 @@ Live outcomes were filtered from the data set.  Below is a linechart of the goal
 The only challenges I encountered where remembering the excel functions.
 ## Results
 
-###What are two conclusions you can draw about the Outcomes based on Launch Date?
+-What are two conclusions you can draw about the Outcomes based on Launch Date?
 1. Few projects were canceled
 2. Most successful projects were in May and June
 
