@@ -31,11 +31,11 @@ The only challenges I encountered where remembering the excel functions.
 1. Few projects were canceled
 2. Most successful projects were in May and June
 
-###What can you conclude about the Outcomes based on Goals?
+-What can you conclude about the Outcomes based on Goals?
 The most successful outcomes are projects with goals that are less than $5000 goals or between $35000 and $45000. 
 
-##What are some limitations of this dataset?
+-What are some limitations of this dataset?
 More data could possibly provide more\different insights.
 
-##What are some other possible tables and/or graphs that we could create?
+-What are some other possible tables and/or graphs that we could create?
 I could create scatter plots or bar charts.  Possibly a staked bar chart show launch date to goal, or percent to goal.
